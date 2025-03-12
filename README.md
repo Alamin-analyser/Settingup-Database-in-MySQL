@@ -1,5 +1,8 @@
 # Settingup-Database-in-MySQL
 
+## Download world_db(1) here 
+## Follow each step to create your database
+
 ![alt text](Settingup_Database/Image3.png)
 
 ![alt text](Settingup_Database/Image4.png)
